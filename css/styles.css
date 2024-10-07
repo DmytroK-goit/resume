@@ -21,20 +21,28 @@ ol {
 
 /* Main-content */
 .main-content {
-  padding-left: 88px;
+  padding-left: 50px;
   padding-top: 80px;
   padding-bottom: 40px;
-  padding-right: 80px;
+  padding-right: 50px;
   box-sizing: border-box;
+  background: linear-gradient(to bottom, #39e982, #c5f5cb);
 }
 
 /* Sidebar */
 .sidebar {
-  background: #90b6f7;
+  background: linear-gradient(to bottom, #00aaff, #ffffff);
   padding-top: 40px;
   padding-bottom: 40px;
   box-sizing: border-box;
-  width: 370px;
+  width: 390px;
+
+}
+
+.my-img {
+  display: block;
+  padding: 0px 10px;
+  border-radius: 35px;
 }
 
 .sidebar-content {
@@ -126,7 +134,7 @@ ol {
 .my-descr {
   color: #595959;
   font-size: 14px;
-  font-weight: 400;
+  font-weight: 600;
   line-height: 24px;
 }
 
@@ -198,7 +206,7 @@ ol {
 }
 
 .work-expereince-period {
-  color: #a8a8a8;
+  color: #2b2a2a;
   font-size: 12px;
   font-weight: 400;
   line-height: 15px;
@@ -214,7 +222,7 @@ ol {
 }
 
 .work-expereince-duties-item {
-  color: #595959;
+  color: #0e0c0c;
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
