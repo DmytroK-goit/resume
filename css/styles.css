@@ -26,17 +26,16 @@ ol {
   padding-bottom: 40px;
   padding-right: 50px;
   box-sizing: border-box;
-  background: linear-gradient(to bottom, #39e982, #c5f5cb);
+  /* background: linear-gradient(to bottom, #39e982, #c5f5cb); */
 }
 
 /* Sidebar */
 .sidebar {
-  background: linear-gradient(to bottom, #00aaff, #ffffff);
+  /* background: linear-gradient(to bottom, #00aaff, #ffffff); */
   padding-top: 40px;
   padding-bottom: 40px;
   box-sizing: border-box;
   width: 390px;
-
 }
 
 .my-img {
@@ -46,6 +45,7 @@ ol {
 }
 
 .sidebar-content {
+  margin-top: 100px;
   padding-left: 40px;
   padding-top: 40px;
   padding-right: 40px;
