@@ -16,15 +16,15 @@ ol {
   flex-direction: row-reverse;
   width: 1200px;
   margin: 0 auto;
-  border: 1px solid black;
+  /* border: 1px solid black; */
 }
 
 /* Main-content */
 .main-content {
-  padding-left: 50px;
-  padding-top: 80px;
-  padding-bottom: 40px;
-  padding-right: 50px;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 20px;
   box-sizing: border-box;
   /* background: linear-gradient(to bottom, #39e982, #c5f5cb); */
 }
@@ -134,7 +134,7 @@ ol {
 .my-descr {
   color: #595959;
   font-size: 14px;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 24px;
 }
 
@@ -257,4 +257,9 @@ ol {
   line-height: normal;
   margin-top: 0px;
   margin-bottom: 8px;
+}
+
+.my-project-item-parag {
+  color: black;
+  font-weight: 500;
 }
