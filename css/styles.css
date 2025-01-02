@@ -266,3 +266,5 @@ ol {
 .contact-phohe {
   text-decoration: none;
 }
+.fullstack{display: flex;
+flex-direction: column;}
