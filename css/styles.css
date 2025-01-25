@@ -1,6 +1,6 @@
 body {
   background: #ffffff;
-  padding: 40px 40px 40px 40px;
+  padding: 10px 10px 10px 10px;
   font-family: "Montserrat", sans-serif;
 }
 
@@ -157,6 +157,7 @@ ol {
   font-size: 14px;
   font-weight: 700;
   line-height: 24px;
+  padding-top: 6px;
 }
 
 .my-projects-list {
@@ -179,7 +180,7 @@ ol {
 }
 
 .my-projects-conteiner {
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 
 /* Work expirience */
@@ -189,7 +190,10 @@ ol {
   font-weight: 700;
   line-height: 27px;
   margin-top: 0px;
-  margin-bottom: 8px;
+  margin-bottom: 4px;
+}
+.work-expereince-title p {
+  margin: 0px 0px 12px 0px;
 }
 
 .work-expereince-company {
@@ -238,7 +242,7 @@ ol {
   font-size: 22px;
   font-weight: 700;
   line-height: normal;
-  margin-bottom: 8px;
+  margin-bottom: 4px;
 }
 
 .education-title-name {
@@ -262,9 +266,15 @@ ol {
 .my-project-item-parag {
   color: black;
   font-weight: 500;
+  margin-bottom: 8px;
 }
 .contact-phohe {
   text-decoration: none;
 }
-.fullstack{display: flex;
-flex-direction: column;}
+.fullstack {
+  display: flex;
+  flex-direction: column;
+}
+.fullstack-h {
+  margin: 0;
+}
